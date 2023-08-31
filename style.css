@@ -34,11 +34,30 @@ li {
     font-size: 18px;
 }
 
-header p {
+/* header p {
     font-style: italic;
+} */
+
+#author {
+    font-style: italic;
+    font-size: 18px;
 }
 
-footer p {
+/* footer p {
     font-size: 16px;
     text-align: center;
+} */
+
+#copyright {
+    font-size: 16px;
+    text-align: center;
+}
+
+.related-author {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.related {
+    list-style: none;
 }

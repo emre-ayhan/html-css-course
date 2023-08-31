@@ -12,3 +12,4 @@
 - Inline, Internal and External CSS
 - Styling Text
 - Combining Selectors
+- Class and ID Selectors

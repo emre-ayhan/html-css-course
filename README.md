@@ -11,3 +11,4 @@
 - Introduction to CSS
 - Inline, Internal and External CSS
 - Styling Text
+- Combining Selectors

@@ -1,37 +1,44 @@
-h1 {
-    color: #1985EA;
-    font-size: 40px;
+h1, h2, h3, h4, p, li {
     font-family: sans-serif;
+}
+
+h1, h2, h3, h4 {
+    color: #1985EA;
+}
+
+h1 {
+    font-size: 40px;
     text-transform: capitalize;
 }
 
 h2 {
-    color: #1985EA;
     font-size: 32px;
-    font-family: sans-serif;
     text-transform: uppercase;
 }
 
 h3 {
-    color: #1985EA;
     font-size: 28px;
-    font-family: sans-serif;
 }
 
 h4 {
-    color: #1985EA;
     font-size: 24px;
-    font-family: sans-serif;
     text-align: center;
 }
 
 p {
     font-size: 20px;
-    font-family: sans-serif;
     line-height: 1.5;
 }
 
 li {
     font-size: 18px;
-    font-family: sans-serif;
+}
+
+header p {
+    font-style: italic;
+}
+
+footer p {
+    font-size: 16px;
+    text-align: center;
 }

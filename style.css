@@ -36,7 +36,7 @@ body {
 }
 
 .main-header nav a:link {
-    background-color: #1985ea;
+    background-color: rgba(25, 133, 234, .3);
     color: #fff;
     padding: 8px 12px;
     display: inline-block;
@@ -46,7 +46,11 @@ body {
 
 .main-header nav a:link:hover {
     text-decoration: none;
-    background-color: rgba(25, 133, 234, .25);
+    background-color: #1985ea;
+}
+
+.main-header nav a.active {
+    background-color: #1985ea;
 }
 
 .main-header nav a:first-child {
@@ -199,4 +203,17 @@ footer p {
 .img-post {
     width: 100%;
     height: 256px;
+}
+
+.btn-chat {
+    position: fixed;
+    bottom: 16px;
+    right: 16px;
+    background-color: #1985ea;
+    color: #fff;
+    font-size: 16px;
+    border-color: #1985ea;
+    border-radius: 8px;
+    padding: 8px 12px;
+    cursor: pointer;
 }

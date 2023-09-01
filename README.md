@@ -20,3 +20,4 @@
 - Inheritance & The Universal Selector
 - Box Model
 - Padding & Margin
+- Dimensions

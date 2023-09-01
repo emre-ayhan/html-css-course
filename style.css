@@ -43,15 +43,15 @@ li {
     font-size: 18px;
 }
 
-/* footer p {
-    font-size: 16px;
-    text-align: center;
-} */
-
 #copyright {
     font-size: 16px;
     text-align: center;
 }
+
+/* footer p {
+    font-size: 16px;
+    text-align: center;
+} */
 
 .related-author {
     font-size: 18px;
@@ -110,3 +110,20 @@ a:active {
     background-color: #1985ea;
     font-size: initial;
 }
+
+/* Resolving Conflicts */
+/* #copyright {
+    color: #ea1985;
+}
+
+.copyright {
+    color: red;
+}
+
+.text {
+    color: blue;
+}
+
+footer p {
+    color: green !important;
+} */

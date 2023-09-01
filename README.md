@@ -1,4 +1,4 @@
-# BASIC HTML & CSS
+# BASIC HTML & CSS COURSE
 ## HTML Fundamentals
 - Introduction to Html
 - Text Elements & Lists
@@ -9,7 +9,7 @@
 - Chapter Task
 ## CSS Fundamentals
 - Introduction to CSS
-- Inline, Internal and External CSS
+- Inline, Internal & External CSS
 - Styling Text
 - Combining Selectors
 - Class and ID Selectors
@@ -17,3 +17,4 @@
 - Pseudo-Classes
 - Styling Hyperlinks
 - Selector Conflicts
+- Inheritance & The Universal Selector

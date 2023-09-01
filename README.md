@@ -15,3 +15,4 @@
 - Class and ID Selectors
 - Working with Colors
 - Pseudo-Classes
+- Styling Hyperlinks

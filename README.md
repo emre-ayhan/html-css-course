@@ -22,3 +22,4 @@
 - Padding & Margin
 - Dimensions
 - Centering Page Content
+- Box Types

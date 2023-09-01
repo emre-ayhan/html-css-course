@@ -17,7 +17,7 @@ body {
 
 .main-header {
     background-color: rgba(25, 133, 234, .25);
-    padding: 16px 0;
+    padding-top: 16px;
     /* border-top: 5px solid #1985ea;
     border-bottom: 5px solid #1985ea; */
     border: solid #1985ea;
@@ -31,14 +31,34 @@ body {
 .main-header nav {
     margin-top: 16px;
     padding-left: 8px;
+    font-size: 18px;
+    display: flex;
+}
+
+.main-header nav a:link {
+    background-color: #1985ea;
+    color: #fff;
+    padding: 8px 12px;
+    display: inline-block;
+    min-width: 80px;
+    text-align: center;
+}
+
+.main-header nav a:link:hover {
+    text-decoration: none;
+    background-color: rgba(25, 133, 234, .25);
+}
+
+.main-header nav a:first-child {
+    border-top-left-radius: 8px;
+}
+
+.main-header nav a:last-child {
+    border-top-right-radius: 8px;
 }
 
 header {
     margin-bottom: 16px;
-}
-
-nav {
-    font-size: 18px;
 }
 
 h1, h2, h3, h4 {

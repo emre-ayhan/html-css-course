@@ -13,3 +13,4 @@
 - Styling Text
 - Combining Selectors
 - Class and ID Selectors
+- Working with Colors

@@ -3,7 +3,7 @@ h1, h2, h3, h4, p, li {
 }
 
 h1, h2, h3, h4 {
-    color: #1985EA;
+    color: #1985ea;
 }
 
 h1 {
@@ -60,4 +60,10 @@ li {
 
 .related {
     list-style: none;
+}
+
+aside {
+    background-color: rgba(25, 133, 234, 0.25);
+    border-top: 5px solid #1985ea;
+    border-bottom: 5px solid #1985ea;
 }

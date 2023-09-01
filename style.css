@@ -9,9 +9,15 @@ body {
     margin: 0;
 }
 
+.container {
+    max-width: 1024px;
+    margin: auto;
+    padding: 0 8px;
+}
+
 .main-header {
     background-color: rgba(25, 133, 234, .25);
-    padding: 16px;
+    padding: 16px 0;
     /* border-top: 5px solid #1985ea;
     border-bottom: 5px solid #1985ea; */
     border: solid #1985ea;
@@ -33,10 +39,6 @@ header {
 
 nav {
     font-size: 18px;
-}
-
-article {
-    padding: 8px;
 }
 
 h1, h2, h3, h4 {
@@ -71,14 +73,11 @@ p {
 
 ul, ol {
     margin-left: 32px;
+    margin-bottom: 8px;
 }
 
 li {
     font-size: 18px;
-}
-
-img {
-    margin: 12px 0;
 }
 
 /* header p {

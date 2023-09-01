@@ -35,7 +35,7 @@ body {
     display: flex;
 }
 
-.main-header nav a:link {
+.main-header nav a {
     background-color: rgba(25, 133, 234, .3);
     color: #fff;
     padding: 8px 12px;
@@ -44,7 +44,7 @@ body {
     text-align: center;
 }
 
-.main-header nav a:link:hover {
+.main-header nav a:hover {
     text-decoration: none;
     background-color: #1985ea;
 }
@@ -61,6 +61,11 @@ body {
     border-top-right-radius: 8px;
 }
 
+
+.main-header h2::first-letter {
+    font-size: 40px;
+}
+
 header {
     margin-bottom: 16px;
 }
@@ -73,7 +78,24 @@ h1, h2, h3, h4 {
 h1 {
     font-size: 40px;
     text-transform: capitalize;
+    position: relative;
 }
+
+h1::after {
+    content: "New";
+    background-color: #ea1985;
+    color: #fff;
+    font-size: 20px;
+    margin-left: 8px;
+    padding: 4px 8px;
+    border-radius: 8px;
+    position: absolute;
+    top: -4px;
+}
+
+/* h3 + p::first-line {
+    color: #ea1985;
+} */
 
 h2 {
     font-size: 32px;

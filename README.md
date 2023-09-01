@@ -14,3 +14,4 @@
 - Combining Selectors
 - Class and ID Selectors
 - Working with Colors
+- Pseudo-Classes

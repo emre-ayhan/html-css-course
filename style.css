@@ -16,7 +16,7 @@ body {
 }
 
 .main-header {
-    background-color: rgba(25, 133, 234, .25);
+    background-color: rgba(25, 133, 234, .3);
     padding-top: 16px;
     /* border-top: 5px solid #1985ea;
     border-bottom: 5px solid #1985ea; */
@@ -156,7 +156,7 @@ li {
 }
 
 aside {
-    background-color: rgba(25, 133, 234, 0.25);
+    background-color: rgba(25, 133, 234, .3);
     border: solid #1985ea;
     border-width: 5px 0;
     padding: 16px;

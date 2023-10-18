@@ -24,3 +24,4 @@
 - Centering Page Content
 - Box Types
 - Positioning
+- Floats

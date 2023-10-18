@@ -29,13 +29,24 @@ body {
 }
 
 .main-header nav {
-    margin-top: 16px;
-    padding-left: 8px;
+    /* margin-top: 16px; */
+    /* padding-left: 8px; */
     font-size: 18px;
     display: flex;
+    float: right;
 }
 
-.main-header nav a {
+.clear {
+    clear: both;
+}
+
+.clearfix::after {
+    clear: both;
+    content: '';
+    display: block;
+}
+
+.main-header nav a:link {
     background-color: rgba(25, 133, 234, .3);
     color: #fff;
     padding: 8px 12px;
@@ -238,4 +249,19 @@ footer p {
     border-radius: 8px;
     padding: 8px 12px;
     cursor: pointer;
+}
+
+img {
+    margin: 8px 0;
+}
+
+/* Floats */
+.author-img {
+    float: left;
+    margin: 0;
+}
+
+.author {
+    float: left;
+    margin: 16px;
 }

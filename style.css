@@ -1,16 +1,17 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
     font-family: sans-serif;
     color: #444;
-    margin: 0;
+    position: relative;
 }
 
 .container {
-    max-width: 1024px;
+    max-width: 1200px;
     margin: auto;
     padding: 0 8px;
 }
@@ -164,6 +165,7 @@ li {
 
 .related {
     list-style: none;
+    margin-left: 0;
 }
 
 aside {
@@ -264,4 +266,18 @@ img {
 .author {
     float: left;
     margin: 16px;
+}
+
+article {
+    width: 800px;
+    float: left;
+}
+
+aside {
+    width: 360px;
+    float: right;
+}
+
+footer {
+    clear: both;
 }

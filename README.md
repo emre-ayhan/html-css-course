@@ -25,3 +25,4 @@
 - Box Types
 - Positioning
 - Floats
+- Simple Float Layout

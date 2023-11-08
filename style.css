@@ -52,8 +52,12 @@ body {
     color: #fff;
     padding: 8px 12px;
     display: inline-block;
-    min-width: 80px;
+    min-width: 128px;
     text-align: center;
+}
+
+.main-header nav a:visited {
+    color: #fff;
 }
 
 .main-header nav a:hover {

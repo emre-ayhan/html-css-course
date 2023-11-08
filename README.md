@@ -31,6 +31,7 @@
 - Flexbox Overview
 - Spacing and Aligning Flex Items
 - Flex Property
-- Apply flex to our project
-- Flex: Main Header Container
-- Flex: Author Box
+- Apply Flex to Project
+- Flexbox: Main Header Container
+- Flexbox: Author Box
+- Flexbox: Related Post

@@ -31,3 +31,4 @@
 - Flexbox Overview
 - Spacing and Aligning Flex Items
 - Flex Property
+- Apply flex to our project

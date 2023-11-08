@@ -32,3 +32,5 @@
 - Spacing and Aligning Flex Items
 - Flex Property
 - Apply flex to our project
+- Flex: Main Header Container
+- Flex: Author Box

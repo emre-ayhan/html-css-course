@@ -290,3 +290,13 @@ footer {
     align-items: flex-end;
     justify-content: space-between;
 }
+
+.author-box {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.author-box * {
+    margin: 0;
+}

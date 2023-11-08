@@ -284,3 +284,9 @@ footer {
     clear: both;
 } */
 
+/* Flexbox Layout */
+.main-header .container {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}

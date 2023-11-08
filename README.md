@@ -24,5 +24,7 @@
 - Centering Page Content
 - Box Types
 - Positioning
+## Layouts
 - Floats
 - Simple Float Layout
+- Introduction to Flexbox

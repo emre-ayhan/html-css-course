@@ -35,3 +35,4 @@
 - Flexbox: Main Header Container
 - Flexbox: Author Box
 - Flexbox: Related Post
+- Flexbox: Simple Layout
